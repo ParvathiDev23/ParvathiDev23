@@ -6,7 +6,7 @@
 <!-- ║       🌊 ANIMATED WAVE HEADER       ║ -->
 <!-- ╚══════════════════════════════════════╝ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:E100FF,100:00D4FF&height=220&section=header&text=Parvathi%20Dev&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=✦%20Developer%20⋄%20Creator%20⋄%20Innovator%20✦&descSize=18&descAlignY=55&descAlign=50" width="100%" alt="Header Banner"/>
+  <img src="https://raw.githubusercontent.com/ParvathiDev23/ParvathiDev23/main/assets/banner.png" width="100%" alt="Header Banner"/>
 </p>
 
 <!-- ╔══════════════════════════════════════╗ -->
@@ -242,7 +242,7 @@ motto: "Code is poetry written in logic"
 <!-- ╚══════════════════════════════════════╝ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:E100FF,100:7F00FF&height=120&section=footer" width="100%" alt="Footer Wave"/>
+  <img src="https://raw.githubusercontent.com/ParvathiDev23/ParvathiDev23/main/assets/banner.png" width="100%" alt="Header Banner"/>
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════
