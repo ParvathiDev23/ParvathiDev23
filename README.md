@@ -3,7 +3,7 @@
      ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <!-- ╔══════════════════════════════════════╗ -->
-<!-- ║       🌊 ANIMATED WAVE HEADER       ║ -->
+<!-- ║       🌊 ANIMATED WAVE HEADER       ║ -->m
 <!-- ╚══════════════════════════════════════╝ -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ParvathiDev23/ParvathiDev23/main/assets/banner.png" width="100%" alt="Header Banner"/>
